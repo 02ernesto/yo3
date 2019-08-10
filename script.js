@@ -1,0 +1,1 @@
+document.writen ("Hola mundo")
