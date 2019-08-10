@@ -1,0 +1,14 @@
+Agregar a contribuyenytes
+3 vistas de html
+1 item
+1 lista de login
+1 lista de contacto 
+
+3 archisvos
+index
+login
+contacto
+
+en branch diferentes
+
+y marge ar 
